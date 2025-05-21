@@ -4,8 +4,8 @@ Full-time hedge fund analyst and Python developer focused on AI (LLMs, RAG, agen
 Experienced with pandas, polars, Django, FastAPI, and building intelligent, automated solutions.
 
 **Projects I'm working on**  
-- [intelare.com.br](https://www.intelare.com.br/) - Custom AI solutions for automation, data analysis, and business process optimization.
-- [monexa.ai](https://www.monexa.ai/) - Stock analysis and investment platform with AI tools  
+- [intelare.com.br](https://intelare.com.br/) - Custom AI solutions for automation, data analysis, and business process optimization.
+- [monexa.ai](https://monexa.ai/) - Stock analysis and investment platform with AI tools  
 - [nebulae](https://nebulae.com.br/) - Brazilian AI Chat where users can talk to a financial analyst powered by LLMs. Built with Retrieval-Augmented Generation (RAG), custom tools and ETL pipelines for financial data.  
-- [bolsa agora](https://www.bolsaagora.com.br/) - Brazilian stock market analysis platform    
+- [bolsa agora](https://bolsaagora.com.br/) - Brazilian stock market analysis platform    
 - [investidor-ia](https://github.com/renanmoretto/investidor-ia) - Open-source Python project using LLMs to generate stock analysis reports for the Brazilian market
