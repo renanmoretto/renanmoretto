@@ -1,6 +1,6 @@
 ﻿[<img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat&logo=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/renanmorettopereira/)
 
-Full-time hedge fund analyst and Python developer focused on AI (LLMs, RAG, agents), data pipelines, web development and automation.
+Python developer focused on AI (LLMs, RAG, agents), data pipelines, web development and automation.
 Experienced with pandas, polars, Django, FastAPI, and building intelligent, automated solutions.
 
 ---
@@ -21,3 +21,4 @@ Experienced with pandas, polars, Django, FastAPI, and building intelligent, auto
 - [pySGS](https://github.com/rafpyprog/pySGS) – Python interface for the Brazilian Central Bank's Time Series Management System (SGS)  
   → Contributor & maintainer  
 - [finbr](https://github.com/renanmoretto/finbr) – A collection of utilities for working with Brazilian financial markets
+
