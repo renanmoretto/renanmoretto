@@ -6,6 +6,7 @@ Software Engineer building AI solutions, web applications, and automation tools.
 
 **Projects I'm working on**  
 - [intelare.com.br](https://intelare.com.br/) - Custom AI solutions for automation, data analysis, and business process optimization.
+- [jurifica.com.br](https://jurifica.com.br/) - AI-powered legal assistant for lawyers, offering document analysis, workflows, and automation.
 - [monexa.ai](https://monexa.ai/) - Stock analysis and investment platform with AI tools  
 - [nebulae](https://nebulae.com.br/) - Brazilian AI Chat where users can talk to a financial analyst powered by LLMs. Built with Retrieval-Augmented Generation (RAG), custom tools and financial ETL pipelines.  
 - [bolsa agora](https://bolsaagora.com.br/) - Brazilian stock market analysis platform    
@@ -20,5 +21,6 @@ Software Engineer building AI solutions, web applications, and automation tools.
 - [pySGS](https://github.com/rafpyprog/pySGS) – Python interface for the Brazilian Central Bank's Time Series Management System (SGS)  
   → Contributor & maintainer  
 - [finbr](https://github.com/renanmoretto/finbr) – A collection of utilities for working with Brazilian financial markets
+
 
 
