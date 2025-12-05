@@ -4,7 +4,7 @@ Software & AI Engineer at WithClutch - building AI solutions, web applications, 
 
 ---
 
-**Projects I'm working on**  
+**Projects**  
 - [intelare.com.br](https://intelare.com.br/) - Custom AI solutions for automation, data analysis, and business process optimization.
 - [jurifica.com.br](https://jurifica.com.br/) - AI-powered legal assistant for lawyers, offering document analysis, workflows, and automation.
 - [monexa.ai](https://monexa.ai/) - Stock analysis and investment platform with AI tools  
@@ -22,6 +22,7 @@ Software & AI Engineer at WithClutch - building AI solutions, web applications, 
 - [pySGS](https://github.com/rafpyprog/pySGS) – Python interface for the Brazilian Central Bank's Time Series Management System (SGS)  
   → Contributor & maintainer  
 - [finbr](https://github.com/renanmoretto/finbr) – A collection of utilities for working with Brazilian financial markets
+
 
 
 
